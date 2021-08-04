@@ -11,6 +11,11 @@ Credits: https://www.linkedin.com/pulse/how-easy-scraping-data-from-linkedin-pro
 
 Status on 06-10-2020: Script can open different tabs, login on LinkedIn, search query on google, and print all the profile links on terminal.
 
-To do: Loop clicking on all printed links. Scrape info from each profile link. Print it in the results.csv file.
+To do:
+- Loop clicking on all printed links.
+- Scrape info from each profile link.
+- Print it in the results.csv file.
 
-Additional To do: Make the browsing more "human-like" by adding suitable delays and mimic "scrolling" behaviour. Copy the cookies and use them in scraper.
+Additional To do:
+- Make the browsing more "human-like" by adding suitable delays and mimic "scrolling" behaviour.
+- Copy the cookies and use them in scraper.
